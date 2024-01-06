@@ -1,0 +1,60 @@
+body{
+    background-color: silver;
+    padding: 20px;
+    color: white;
+    font-family: arial, Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    background-color: #ffffff;
+    color: grey;
+    padding: 15px;
+}
+p{
+    padding: 5px;
+    margin: 0%;
+}
+#hone{
+    background-color: #2480d6;
+}
+#htwo{
+    background-color: #5ca0c7;
+}
+#hthree{
+    background-color: #7cb4ca;
+}
+#hfour{
+    background-color: #85bcd1;
+}
+#hfive{
+    background-color: #92c2d4;
+}
+#hsix{
+    background-color: #a8d8e9;
+}
+#hseven{
+    background-color: #b9e0ee;
+}
+#height{
+    background-color: #5bad84;
+}
+#hnine{
+    background-color: #fce6ea;
+}
+#hten{
+    background-color: #f0c9d0;
+    }
+    #heleven{
+        background-color: #ebb7c0;
+    }
+    #htwelve{
+        background-color: #e9acb6;
+    }
+    #hthirteen{
+        background-color: #d4929d;
+    }
+    #hfourteen{
+        background-color: #db8392;
+    }
+    #hfifteen{
+        background-color: #db6d80;
+    }
